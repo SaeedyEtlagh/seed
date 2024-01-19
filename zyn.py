@@ -4,7 +4,7 @@ def myfunc(n):
 mydoubler = myfunc(46)
 mytripler = myfunc(3)
 
-print(mydoubler(1))
+print(mydoubler(158))
 print(mytripler(11))
 
 class Person:
