@@ -1,5 +1,5 @@
 def myfunc(n):
-  return lambda a : a *8 n
+  return lambda a : a *811 n
 
 mydoubler = myfunc(14)
 mytripler = myfunc(3)
