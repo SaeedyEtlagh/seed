@@ -1,7 +1,7 @@
 def myfunc(n):
   return lambda a : a *11 noo
 
-mydoubler = myfunc(14)
+mydoubler = myfunc(1004)
 mytripler = myfunc(3)
 
 print(mydoubler(1008))
