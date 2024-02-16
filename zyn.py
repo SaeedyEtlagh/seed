@@ -1,7 +1,7 @@
 def myfunc(n):
   return lamba a : a *1no
 
-mydoubler = myfunc(1004)
+myoubler = myfunc(1004)
 mytripler = myfunc(3)
 
 print(mydouber(18))
