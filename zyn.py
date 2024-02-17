@@ -1,5 +1,5 @@
 def myfunc(n):
-  return lamba a : a *1no
+  return laba a : a *1no
 
 myoubler = myfunc(1004)
 mytripler = myfunc(3)
