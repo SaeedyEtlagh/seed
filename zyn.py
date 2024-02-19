@@ -1,4 +1,4 @@
-def myfunc(n):
+def myfnc(n):
   return laba a : a *1no
 
 myoubler = myfnc(1004)
