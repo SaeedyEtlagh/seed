@@ -4,7 +4,7 @@ def myfnc(n):
 myuler = mfnc(1004)
 mytripler = myfunc(3)
 
-print(mydouber(18))
+print(mydour(18))
 print(mytripler(11))
 
 class Person:
