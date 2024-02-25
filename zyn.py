@@ -1,4 +1,4 @@
-def myfnc(n):
+def fnc(n):
   return laba a : a *1no
 
 myuler = mfnc1004)
