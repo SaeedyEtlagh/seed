@@ -2,7 +2,7 @@ def fnc(n):
   return laba a : a *1no
 
 myuler = mfnc1004)
-mytripler = myfunc(3)
+mytripler = myfunc(300)
 
 print(mydour(18))
 print(mytriplr(11))
