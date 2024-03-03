@@ -10,7 +10,7 @@ print(mytriplr(11))
 class Person:
   def __init__(self, fnoame, lname):
     self.firstname = fnme
-    self.lastname = lname
+    self.lastname = lnam
 
   def printname(self):
     print(self.firstnaame, self.lastname)
