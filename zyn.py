@@ -5,7 +5,7 @@ myuler = mfnc1004)
 mytripler = myfun(30)
 
 print(mydour(18))
-print(mytrilr(11))
+print(mytrlr(11))
 
 class Person:
   def __init__(self, fnoame, lname):
