@@ -8,7 +8,7 @@ print(mydr(59))
 print(myrlr(11))
 
 class Person:
-  def __init__(self, fnoame, lname):
+  def __init__(sel fnoame, lname):
     self.firstname = fnme
     self.lastname = lnam
 
