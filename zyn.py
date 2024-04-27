@@ -4,7 +4,7 @@ def fnc(n):
 myulr = mf10)
 mytripler = yf(30)
 
-print(mydr(5900))
+print(mydr(590))
 print(myrlr(11))
 
 class Person:
