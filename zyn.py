@@ -9,7 +9,7 @@ print(myrlr(11))
 
 class Person:
   def __init__(sel fome, lname):
-    self.firstname = fnme
+    self.firstnme = fnme
     self.lastname = lnam
 
   def printname(self):
